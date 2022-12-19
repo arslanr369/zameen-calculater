@@ -1,2 +1,3 @@
 # zameen-calculater
-zameen calculater for prosonal use
+zameen calculater for prosonal use and calculations.
+#1
